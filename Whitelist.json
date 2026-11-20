@@ -1,0 +1,10 @@
+
+{
+  "users": [
+    {
+      "code": "CHEZEKU-TEST001",
+      "device": "DEVICE-001",
+      "active": true
+    }
+  ]
+}
